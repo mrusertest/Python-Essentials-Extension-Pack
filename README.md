@@ -1,6 +1,9 @@
 # Python Essentials Extension Pack
-#### This Extension Pack includes all the extensions that are required to start your Python Development Journey
+#### This Extension Pack includes all the extensions that are required to start your Python Development Journey 
 ----------
+
+![Visual Studio Marketplace Installs - Azure DevOps Extension](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/MrSid007.python-essentials-extension-pack?color=green&style=for-the-badge)
+
 # Table of Contents : Extensions Included
 1. [Necessary Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/new/main#necessary-extensions)
 2. [Github Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/new/main#github-extensions)
@@ -56,3 +59,18 @@
 [Pieces for VS Code](https://marketplace.visualstudio.com/items?itemName=MeshIntelligentTechnologiesInc.pieces-vscode)
 
 [Sort Lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
+
+# Credits 
+
+# Inspriration for the Project 
+[James Quick's Web Development Essentials Extension Pack ](https://marketplace.visualstudio.com/items?itemName=jamesqquick.web-development-essentials-extension-pack&ssr=false#overview)
+
+# Logo of the Extension 
+[Python icons created by Alfredo Hernandez - Flaticon](https://www.flaticon.com/free-icon/python_402219?term=python&page=1&position=25&page=1&position=25&related_id=402219&origin=search)
+
+# How To Contribute
+Open a New Issue requesting the extension that you think should be added 
+
+----------
+
+Please consider leaving a ⭐ on the repo if you like my work
