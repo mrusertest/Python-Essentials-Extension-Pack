@@ -1,7 +1,11 @@
 # Change Log
 
-All notable changes to the "python-essentials-extension-pack" extension pack will be documented in this file.
+All notable changes to the "python-essentials-extension-pack" extension pack will be documented in this file
+This file is according to [Keep A Changelog](https://keepachangelog.com/en/1.0.0/)
 
-## [Released]
+## [1.0.0] - 25-09-2022
+Initial Release 
 
-- Initial release
+## [1.0.1] - 27-09-2022 
+## Changed 
+- Updated README.md and CHANGELOG.md
