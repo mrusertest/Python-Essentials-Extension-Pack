@@ -10,7 +10,8 @@
 3. [Testing & Environment Managing Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/new/main#testing--environment-managing-extensions)
 4. [Printing & Screenshot Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/new/main#printing--screenshot-extensions)
 5. [Theming & Icon Pack Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/new/main#theming--icon-pack-extensions)
-6. [Small Utility Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/new/main#small-utility-extensions)
+6. [Code Commenting Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/new/main/#code-commenting-extensions)
+7. [Small Utility Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/new/main#small-utility-extensions)
 
 # Necessary Extensions
 [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
@@ -47,7 +48,14 @@
 
 [vs-code-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
+# Code Commenting Extensions
+[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+
+[TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+
 # Small Utility Extensions
+[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
 [vscode-database](https://marketplace.visualstudio.com/items?itemName=bajdzis.vscode-database)
 
 [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
@@ -67,6 +75,9 @@
 
 # Logo of the Extension 
 [Python icons created by Alfredo Hernandez - Flaticon](https://www.flaticon.com/free-icon/python_402219?term=python&page=1&position=25&page=1&position=25&related_id=402219&origin=search)
+
+# Note 
+None of these extensions belong to me, credits are given to the respective owner of these extensions. 
 
 # How To Contribute
 Open a New Issue requesting the extension that you think should be added 
