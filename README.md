@@ -4,15 +4,6 @@
 
 ![Visual Studio Marketplace Installs - Azure DevOps Extension](https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/MrSid007.python-essentials-extension-pack?color=green&style=for-the-badge)
 
-# Table of Contents : Extensions Included
-1. [Necessary Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/new/main#necessary-extensions)
-2. [Github Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/new/main#github-extensions)
-3. [Testing & Environment Managing Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/new/main#testing--environment-managing-extensions)
-4. [Printing & Screenshot Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/new/main#printing--screenshot-extensions)
-5. [Theming & Icon Pack Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/new/main#theming--icon-pack-extensions)
-6. [Code Commenting Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/edit/main/README.md#code-commenting-extensions)
-7. [Small Utility Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/new/main#small-utility-extensions)
-
 # Necessary Extensions
 [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
