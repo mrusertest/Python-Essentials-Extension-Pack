@@ -10,7 +10,7 @@
 3. [Testing & Environment Managing Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/new/main#testing--environment-managing-extensions)
 4. [Printing & Screenshot Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/new/main#printing--screenshot-extensions)
 5. [Theming & Icon Pack Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/new/main#theming--icon-pack-extensions)
-6. [Code Commenting Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/new/main/#code-commenting-extensions)
+6. [Code Commenting Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/edit/main/README.md#code-commenting-extensions)
 7. [Small Utility Extensions](https://github.com/MrSid007/Python-Essentials-Extension-Pack/new/main#small-utility-extensions)
 
 # Necessary Extensions
