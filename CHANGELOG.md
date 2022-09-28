@@ -8,10 +8,16 @@ Initial Release
 
 ## [1.0.1] - 27-09-2022 
 ## Changed 
-- Updated README.md and CHANGELOG.md
+- README.md and CHANGELOG.md
 
 ## [1.0.2] - 28-09-2022 
 ## Removed  
 - Readme Editor Extension 
 ## Changed 
-- Updated README.md 
+- package.json  
+
+## [1.0.3] - 28-09-2022
+## Added 
+- TODO Tree Extension 
+## Changed 
+- package.json, README.md and CHANGELOG.md
