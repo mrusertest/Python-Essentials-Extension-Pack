@@ -2,7 +2,7 @@
   "name": "python-essentials-extension-pack",
   "displayName": "Python Essentials Extension Pack ",
   "description": "This Extension Pack includes all the extensions that are required to start your Python Development Journey",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "MrSid007",
   "engines": {
     "vscode": "^1.71.0"
@@ -16,7 +16,7 @@
     "url": "https://github.com/MrSid007/Python-Essentials-Extension-Pack.git"
   },
   "extensionPack": [
-    "aaron-bond.better-comments",
+    "aaron-bond.better-comments", 
     "adpyke.codesnap",
     "vsls-contrib.gistfs",
     "eamodio.gitlens",
@@ -38,6 +38,7 @@
     "bajdzis.vscode-database",
     "vscode-icons-team.vscode-icons",
     "tomoki1207.pdf",
-    "deerawan.vscode-faker"
+    "deerawan.vscode-faker",
+    "Gruntfuggly.todo-tree"
   ]
 }
