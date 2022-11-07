@@ -21,3 +21,10 @@ Initial Release
 - TODO Tree Extension 
 ## Changed 
 - package.json, README.md and CHANGELOG.md
+
+## [1.0.4] - 8-11-2022
+## Added 
+- Pylint Extension
+- isort Extension  
+## Changed 
+- package.json, README.md and CHANGELOG.md
