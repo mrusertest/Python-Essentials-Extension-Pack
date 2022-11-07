@@ -7,13 +7,17 @@
 # Necessary Extensions
 [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
-[Jupyter Keymap](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)
-
-[Jupyter Notebook Renderers](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers)
-
 [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
 
 [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+
+[Pylint](https://marketplace.visualstudio.com/items?itemName=ms-python.pylint)
+
+[isort](https://marketplace.visualstudio.com/items?itemName=ms-python.isort)
+
+[Jupyter Keymap](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)
+
+[Jupyter Notebook Renderers](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers)
 
 # Github Extensions
 [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
